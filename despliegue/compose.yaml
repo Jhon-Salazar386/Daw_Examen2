@@ -1,0 +1,6 @@
+name: prueba2-${ALUMNO}
+services:
+  web:
+    build:
+    image:
+    ports:
